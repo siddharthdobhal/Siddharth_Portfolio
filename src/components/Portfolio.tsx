@@ -20,7 +20,7 @@ export const Portfolio: React.FC = () => {
       id: 1,
       title: "Portfolio Video",
       category: "graphic-design",
-      image: "/src/components/Black White Grayscale Portfolio Presentation.jpg",
+      image: "https://i.imgur.com/eb9pzPd.jpeg",
       link: "https://www.youtube.com/watch?v=ETCFgivjVSY",
       description: "Introduction of my Portfolio "
     },
