@@ -28,7 +28,7 @@ export const Portfolio: React.FC = () => {
       id: 2,
       title: "Charted Account Subtitle X Thumbnail",
       category: "video-editing",
-      image: "/src/components/CA.jpeg",
+      image: "https://i.imgur.com/mSjXwQv.jpeg",
       link: "https://imgur.com/a/YMwXbL1",
       description: "Promotional video highlighting key features of a tech product with motion graphics."
     },
@@ -66,11 +66,11 @@ export const Portfolio: React.FC = () => {
     },
     {
       id: 6,
-      title: "3d Reel ",
+      title: "3d Display Picture ",
       category: "graphic-design",
-      image: "/src/components/dp.webp",
-      link: "",
-      description: "3D gaming instagram reel for Influencer The_Minni_13"
+      image: "https://i.imgur.com/QIZCE4G.jpeg",
+      link: "https://i.imgur.com/QIZCE4G.jpeg",
+      description: "3D gaming instagram Picture for Influencer The_Minni_13"
     },
     {
       id: 7,
