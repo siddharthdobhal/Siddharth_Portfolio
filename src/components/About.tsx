@@ -40,7 +40,7 @@ export const About: React.FC = () => {
             <div className="relative">
               <div className="w-full h-96 rounded-lg overflow-hidden shadow-xl transform transition duration-500 hover:scale-[1.02] hover:shadow-2xl border-4 border-gray-800">
                 <img 
-                  src="/src/components/THIS IS NOT (2).png" 
+                  src="https://i.imgur.com/3Ot9Kqo.png" 
                   alt="Siddharth Dobhal" 
                   className="min-w-10 h-full object-cover object-center"
                 />
@@ -92,7 +92,7 @@ export const About: React.FC = () => {
             
             <div className="mt-8">
               <a 
-                href="/resume.pdf" 
+                href="/src/components/Siddharth Resume GV.pdf" 
                 download
                 className="px-6 py-3 bg-gradient-to-r from-purple-500 to-blue-500 hover:from-purple-600 hover:to-blue-600 text-white font-medium rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1 inline-block"
               >

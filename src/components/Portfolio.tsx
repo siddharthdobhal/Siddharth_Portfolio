@@ -44,24 +44,24 @@ export const Portfolio: React.FC = () => {
       id: 4,
       title: "Nike Poster",
       category: "marketing",
-      image: "/src/image/Nike Poster Design.png",
-      link: "/src/image/Nike Poster Design.png",
+      image: "https://i.imgur.com/rtI35lc.png",
+      link: "https://i.imgur.com/rtI35lc.png",
       description: "Commercial Poster for Nike Just for practice"
     },
     {
       id: 4,
       title: "Jordan Poster",
       category: "marketing",
-      image: "/src/image/jordans.png",
-      link: "/src/image/jordans.png",
+      image: "https://i.imgur.com/z2BNz5Y.png",
+      link: "https://i.imgur.com/z2BNz5Y.png",
       description: "Commercial Poster for Jordan Just for practice"
     },
     {
       id: 5,
       title: "Anime Tranformation",
       category: "graphic-design",
-      image: "/src/image/Anime Tranformation.jpg",
-      link: "/src/image/Anime Tranformation.jpg",
+      image: "https://i.imgur.com/vcnI29Q.jpg",
+      link: "https://i.imgur.com/vcnI29Q.jpg",
       description: "Anime Tranformation Poster / Thumbnail for Instagram Influencer"
     },
     {
@@ -69,7 +69,7 @@ export const Portfolio: React.FC = () => {
       title: "3d Reel ",
       category: "graphic-design",
       image: "/src/components/dp.webp",
-      link: "/src/components/dp.webp",
+      link: "",
       description: "3D gaming instagram reel for Influencer The_Minni_13"
     },
     {
@@ -84,8 +84,8 @@ export const Portfolio: React.FC = () => {
       id: 8,
       title: "Porsche Car Poster",
       category: "graphic-design",
-      image: "/src/image/PORCHE EDIT.jpg",
-      link: "/src/image/PORCHE EDIT.jpg",
+      image: "https://i.imgur.com/3LFNcGq.jpg",
+      link: "https://i.imgur.com/3LFNcGq.jpg",
       description: "Poster of Porsche Car "
     },
     {
@@ -100,16 +100,16 @@ export const Portfolio: React.FC = () => {
       id: 10,
       title: "Streaming Thumbnail",
       category: "graphic-design",
-      image: "/src/image/ZcNwueK8noI-HD.jpg",
-      link: "/src/image/ZcNwueK8noI-HD.jpg",
+      image: "https://i.imgur.com/4s8Jfoh.jpg",
+      link: "https://i.imgur.com/4s8Jfoh.jpg",
       description: "Gaming Streamer Youtube Thumbnail"
     },
     {
       id: 11,
       title: "Streaming Thumbnail",
       category: "graphic-design",
-      image: "/src/image/B8OSiR4M3YM-SD.jpg",
-      link: "/src/image/B8OSiR4M3YM-SD.jpg",
+      image: "https://i.imgur.com/wOHvgSR.jpg",
+      link: "https://i.imgur.com/wOHvgSR.jpg",
       description: "Gaming Tournament Streamer Youtube Thumbnail"
     },
     {
